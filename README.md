@@ -1,2 +1,2 @@
-# yy
-yessir
+# avone
+Shopify theme Avone
